@@ -4,6 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This is a boilerplate project with Material side-nav menu. <br/>
 AWS Authentication codes have been commented out.
 
+# To Setup 
+Run the commands below: <br/>
+
+npm install <br/>
+
+ng serve<br/>
 
 ## Further help
 

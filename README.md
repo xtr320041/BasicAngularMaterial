@@ -1,8 +1,8 @@
-# Ng3
+# Basic Info
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.<br/>
-This is a boilerplate project with Material side-nav menu 
-AWs Authentication codes have been commented out.
+This is a boilerplate project with Material side-nav menu. <br/>
+AWS Authentication codes have been commented out.
 
 
 ## Further help
